@@ -1,0 +1,10 @@
+:root{
+  --header-height:50px;
+  --sidebar-width:200px;
+}
+*{
+  box-sizing:border-box ;
+}
+body{
+  margin:0;
+}
